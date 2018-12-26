@@ -1,0 +1,2 @@
+serviceClass: com.netcracker.client.GreetingService
+path: E2C77EDE8750A4FC46FD6CFFC1181361.gwt.rpc

@@ -1,0 +1,57 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px;
+  text-align: center;
+}
+table {
+  margin: auto;
+  align-items: center;
+  vertical-align: middle;
+}
+td {
+  align-items: center;
+}
+
+.book-table {
+  border: 2px solid #5C5A5E;
+}
+
+.gwt-Button {
+  margin: 20px !important;
+
+}
+
+.gwt-ToggleButton {
+  margin: 20px !important;
+}
+
+.gwt-TextBox {
+  height: 10px;
+  width: 100px;
+}
+.gwt-Label {
+  font-size: 20px;
+  padding: 5px;
+}
+
+.watchListHeader {
+  background-color: rgba(17, 71, 194, 0.62);
+  border: black;
+}
+
+
+
+.field_error{
+  background-color: red;
+  width: 100px;
+}
+.field_ok{
+  background-color: transparent;
+  width: 100px;
+}
